@@ -1,0 +1,5 @@
+procedure to run:
+step1:install mysql server and give local host has 3306 ,set username and password for mysql as "root";
+step2:open eclipse,create work space import project ondisk to workspace through eclipse.
+step3:install apache tomcat server>select version>workbench select> jdk platfrom then click on finish.
+step4:right click on "frontendcontactproject" and Run as>Runon server.

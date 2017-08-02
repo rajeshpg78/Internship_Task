@@ -1,0 +1,5 @@
+com\goldfarm\util\Util.class
+com\goldfarm\contactbook\config\ApplicationContextConfig.class
+com\goldfarm\model\UserDetails.class
+com\goldfarm\userdao\UserDAO.class
+com\goldfarm\userdao\UserDAOIMPL.class
